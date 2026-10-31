@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"bello world, and git world!"<<endl;
+    cout<<"hello world, and git world!"<<endl;
+    cout << "GitHub update test!" << endl;
     return 0;
 }
